@@ -1,1 +1,2 @@
-# Course_DevA_lesson_3
+# Lesson 3 Abstract classes and Intarface
+Homework: доработать класс Car деталями
